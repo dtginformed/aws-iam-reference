@@ -1,0 +1,316 @@
+Alexa for Business|a4b
+Amazon API Gateway|execute-api
+Amazon API Gateway Management|apigateway
+Amazon API Gateway Management V2|apigateway
+Amazon AppFlow|appflow
+Amazon AppIntegrations|app-integrations
+Amazon AppStream 2.0|appstream
+Amazon Athena|athena
+Amazon Braket|braket
+Amazon Chime|chime
+Amazon Cloud Directory|clouddirectory
+Amazon CloudFront|cloudfront
+Amazon CloudSearch|cloudsearch
+Amazon CloudWatch|cloudwatch
+Amazon CloudWatch Evidently|evidently
+Amazon CloudWatch Logs|logs
+Amazon CloudWatch Synthetics|synthetics
+Amazon CodeGuru|codeguru
+Amazon CodeGuru Profiler|codeguru-profiler
+Amazon CodeGuru Reviewer|codeguru-reviewer
+Amazon Cognito Identity|cognito-identity
+Amazon Cognito Sync|cognito-sync
+Amazon Cognito User Pools|cognito-idp
+Amazon Comprehend|comprehend
+Amazon Comprehend Medical|comprehendmedical
+Amazon Connect|connect
+Amazon Connect Customer Profiles|profile
+Amazon Connect Voice ID|voiceid
+Amazon Connect Wisdom|wisdom
+Amazon Data Lifecycle Manager|dlm
+Amazon Detective|detective
+Amazon DevOps Guru|devops-guru
+Amazon DynamoDB Accelerator (DAX)|dax
+Amazon DynamoDB|dynamodb
+Amazon EC2 Auto Scaling|autoscaling
+Amazon EC2|ec2
+Amazon EC2 Image Builder|imagebuilder
+Amazon EC2 Instance Connect|ec2-instance-connect
+Amazon ElastiCache|elasticache
+Amazon Elastic Block Store|ebs
+Amazon Elastic Container Registry|ecr
+Amazon Elastic Container Registry Public|ecr-public
+Amazon Elastic Container Service|ecs
+Amazon Elastic File System|elasticfilesystem
+Amazon Elastic Inference|elastic-inference
+Amazon Elastic Kubernetes Service|eks
+Amazon Elastic MapReduce|elasticmapreduce
+Amazon Elastic Transcoder|elastictranscoder
+Amazon EMR on EKS (EMR Containers)|emr-containers
+Amazon EventBridge|events
+Amazon EventBridge Schemas|schemas
+Amazon FinSpace|finspace
+Amazon Forecast|forecast
+Amazon Fraud Detector|frauddetector
+Amazon FreeRTOS|freertos
+Amazon FSx|fsx
+Amazon GameLift|gamelift
+Amazon Glacier|glacier
+Amazon GroundTruth Labeling|groundtruthlabeling
+Amazon GuardDuty|guardduty
+Amazon HealthLake|healthlake
+Amazon Honeycode|honeycode
+Amazon Inspector2|inspector2
+Amazon Inspector|inspector
+Amazon Interactive Video Service|ivs
+Amazon Kendra|kendra
+Amazon Keyspaces (for Apache Cassandra)|cassandra
+Amazon Kinesis Analytics|kinesisanalytics
+Amazon Kinesis Analytics V2|kinesisanalytics
+Amazon Kinesis Firehose|firehose
+Amazon Kinesis|kinesis
+Amazon Kinesis Video Streams|kinesisvideo
+Amazon Lex|lex
+Amazon Lex V2|lex
+Amazon Lightsail|lightsail
+Amazon Location|geo
+Amazon Lookout for Equipment|lookoutequipment
+Amazon Lookout for Metrics|lookoutmetrics
+Amazon Lookout for Vision|lookoutvision
+Amazon Machine Learning|machinelearning
+Amazon Macie Classic|macie
+Amazon Macie|macie2
+Amazon Managed Blockchain|managedblockchain
+Amazon Managed Grafana|grafana
+Amazon Managed Service for Prometheus|aps
+Amazon Managed Streaming for Apache Kafka|kafka
+Amazon Managed Streaming for Kafka Connect|kafkaconnect
+Amazon Managed Workflows for Apache Airflow|airflow
+Amazon Mechanical Turk|mechanicalturk
+AmazonMediaImport|mediaimport
+Amazon MemoryDB|memorydb
+Amazon Message Delivery Service|ec2messages
+Amazon Mobile Analytics|mobileanalytics
+Amazon Monitron|monitron
+Amazon MQ|mq
+Amazon Neptune|neptune-db
+Amazon Nimble Studio|nimble
+Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)|es
+Amazon Personalize|personalize
+Amazon Pinpoint Email Service|ses
+Amazon Pinpoint|mobiletargeting
+Amazon Pinpoint SMS and Voice Service|sms-voice
+Amazon Polly|polly
+Amazon QLDB|qldb
+Amazon QuickSight|quicksight
+Amazon RDS Data API|rds-data
+Amazon RDS IAM Authentication|rds-db
+Amazon RDS|rds
+Amazon Redshift Data API|redshift-data
+Amazon Redshift|redshift
+Amazon Rekognition|rekognition
+Amazon Resource Group Tagging API|tag
+Amazon Route 53 Domains|route53domains
+Amazon Route 53 Recovery Cluster|route53-recovery-cluster
+Amazon Route 53 Recovery Controls|route53-recovery-control-config
+Amazon Route 53 Recovery Readiness|route53-recovery-readiness
+Amazon Route 53 Resolver|route53resolver
+Amazon Route 53|route53
+Amazon S3 Object Lambda|s3-object-lambda
+Amazon S3 on Outposts|s3-outposts
+Amazon S3|s3
+Amazon SageMaker|sagemaker
+Amazon SES|ses
+Amazon Session Manager Message Gateway Service|ssmmessages
+Amazon SimpleDB|sdb
+Amazon Simple Email Service v2|ses
+Amazon Simple Workflow Service|swf
+Amazon SNS|sns
+Amazon SQS|sqs
+Amazon Storage Gateway|storagegateway
+Amazon Sumerian|sumerian
+Amazon Textract|textract
+Amazon Timestream|timestream
+Amazon Transcribe|transcribe
+Amazon Translate|translate
+Amazon WorkDocs|workdocs
+Amazon WorkLink|worklink
+Amazon WorkMail Message Flow|workmailmessageflow
+Amazon WorkMail|workmail
+Amazon WorkSpaces Application Manager|wam
+Amazon WorkSpaces Web|workspaces-web
+Amazon WorkSpaces|workspaces
+Apache Kafka APIs for Amazon MSK clusters|kafka-cluster
+Application Discovery Arsenal|arsenal
+Application Discovery|discovery
+AWS Account Management|account
+AWS Activate|activate
+AWS Amplify Admin|amplifybackend
+AWS Amplify|amplify
+AWS Amplify UI Builder|amplifyuibuilder
+AWS AppConfig|appconfig
+AWS Application Auto Scaling|application-autoscaling
+AWS Application Cost Profiler Service|application-cost-profiler
+AWS Application Migration Service|mgn
+AWS App Mesh|appmesh
+AWS App Mesh Preview|appmesh-preview
+AWS App Runner|apprunner
+AWS AppSync|appsync
+AWS Artifact|artifact
+AWS Audit Manager|auditmanager
+AWS Auto Scaling|autoscaling-plans
+AWS Backup|backup
+AWS Backup Gateway|backup-gateway
+AWS Backup storage|backup-storage
+AWS Batch|batch
+AWS Billing|aws-portal
+AWS Budget Service|budgets
+AWS BugBust|bugbust
+AWS Certificate Manager|acm
+AWS Certificate Manager Private Certificate Authority|acm-pca
+AWS Chatbot|chatbot
+AWS Cloud9|cloud9
+AWS Cloud Control API|cloudformation
+AWS CloudFormation|cloudformation
+AWS CloudHSM|cloudhsm
+AWS Cloud Map|servicediscovery
+AWS CloudShell|cloudshell
+AWS CloudTrail|cloudtrail
+AWS CloudWatch RUM|rum
+AWS CodeArtifact|codeartifact
+AWS CodeBuild|codebuild
+AWS CodeCommit|codecommit
+AWS CodeDeploy|codedeploy
+AWS CodeDeploy secure host commands service|codedeploy-commands-secure
+AWS CodePipeline|codepipeline
+AWS CodeStar|codestar
+AWS CodeStar Connections|codestar-connections
+AWS CodeStar Notifications|codestar-notifications
+AWS Compute Optimizer|compute-optimizer
+AWS Config|config
+AWS Connector Service|awsconnector
+AWS Control Tower|controltower
+AWS Cost and Usage Report|cur
+AWS Cost Explorer Service|ce
+AWS Database Migration Service|dms
+AWS Data Exchange|dataexchange
+AWSDataSync|datasync
+AWS DeepComposer|deepcomposer
+AWS DeepLens|deeplens
+AWS DeepRacer|deepracer
+AWS Device Farm|devicefarm
+AWS Direct Connect|directconnect
+AWS Directory Service|ds
+AWS Elastic Beanstalk|elasticbeanstalk
+AWS Elastic Disaster Recovery|drs
+AWS Elemental Appliances and Software Activation Service|elemental-activations
+AWS Elemental Appliances and Software|elemental-appliances-software
+AWS Elemental MediaConnect|mediaconnect
+AWS Elemental MediaConvert|mediaconvert
+AWS Elemental MediaLive|medialive
+AWS Elemental MediaPackage|mediapackage
+AWS Elemental MediaPackage VOD|mediapackage-vod
+AWS Elemental MediaStore|mediastore
+AWS Elemental MediaTailor|mediatailor
+AWS Fault Injection Simulator|fis
+AWS Firewall Manager|fms
+AWS Global Accelerator|globalaccelerator
+AWS Glue DataBrew|databrew
+AWS Glue|glue
+AWS Ground Station|groundstation
+AWS Health APIs and Notifications|health
+AWS IAM Access Analyzer|access-analyzer
+AWS Identity Store|identitystore
+AWS Import Export Disk Service|importexport
+AWS IoT 1-Click|iot1click
+AWS IoT Analytics|iotanalytics
+AWS IoT Core Device Advisor|iotdeviceadvisor
+AWS IoT Core for LoRaWAN|iotwireless
+AWS IoT Device Tester|iot-device-tester
+AWS IoT Events|iotevents
+AWS IoT Fleet Hub for Device Management|iotfleethub
+AWS IoT FleetWise|iotfleetwise
+AWS IoT Greengrass|greengrass
+AWS IoT Greengrass V2|greengrass
+AWS IoT|iot
+AWS IoT RoboRunner|iotroborunner
+AWS IoT SiteWise|iotsitewise
+AWS IoT Things Graph|iotthingsgraph
+AWS IoT TwinMaker|iottwinmaker
+AWS IQ|iq
+AWS IQ Permissions|iq-permission
+AWS Key Management Service|kms
+AWS Lake Formation|lakeformation
+AWS Lambda|lambda
+AWS License Manager|license-manager
+AWS Marketplace|aws-marketplace
+AWS Marketplace Catalog|aws-marketplace
+AWS Marketplace Commerce Analytics Service|marketplacecommerceanalytics
+AWS Marketplace Entitlement Service|aws-marketplace
+AWS Marketplace Image Building Service|aws-marketplace
+AWS Marketplace Management Portal|aws-marketplace-management
+AWS Marketplace Metering Service|aws-marketplace
+AWS Marketplace Private Marketplace|aws-marketplace
+AWS Marketplace Procurement Systems Integration|aws-marketplace
+AWS Microservice Extractor for .NET|serviceextract
+AWS Migration Hub|mgh
+AWS Migration Hub Refactor Spaces|refactor-spaces
+AWS Migration Hub Strategy Recommendations.|migrationhub-strategy
+AWS Mobile Hub|mobilehub
+AWS Network Firewall|network-firewall
+AWS OpsWorks Configuration Management|opsworks-cm
+AWS OpsWorks|opsworks
+AWS Organizations|organizations
+AWS Outposts|outposts
+AWS Panorama|panorama
+AWS Performance Insights|pi
+AWS Price List|pricing
+AWS Proton|proton
+AWS Purchase Orders Console|purchase-orders
+AWS Resilience Hub Service|resiliencehub
+AWS Resource Access Manager|ram
+AWS Resource Groups|resource-groups
+AWS RoboMaker|robomaker
+AWS Savings Plans|savingsplans
+AWS Secrets Manager|secretsmanager
+AWS Security Hub|securityhub
+AWS Security Token Service|sts
+AWS Serverless Application Repository|serverlessrepo
+AWS Server Migration Service|sms
+AWS Service Catalog|servicecatalog
+AWS Shield|shield
+AWS Signer|signer
+AWS Snowball|snowball
+AWS Snow Device Management|snow-device-management
+AWS SQL Workbench|sqlworkbench
+AWS SSO Directory|sso-directory
+AWS SSO|sso
+AWS Step Functions|states
+AWS Support|support
+AWS Sustainability|sustainability
+AWS Systems Manager GUI Connect|ssm-guiconnect
+AWS Systems Manager Incident Manager Contacts|ssm-contacts
+AWS Systems Manager Incident Manager|ssm-incidents
+AWS Systems Manager|ssm
+AWS Tag Editor|resource-explorer
+AWS Tiros|tiros
+AWS Transfer Family|transfer
+AWS Trusted Advisor|trustedadvisor
+AWS WAF Regional|waf-regional
+AWS WAF V2|wafv2
+AWS WAF|waf
+AWS Well-Architected Tool|wellarchitected
+AWS X-Ray|xray
+CloudWatch Application Insights|applicationinsights
+Database Query Metadata Service|dbqms
+Data Pipeline|datapipeline
+Elastic Load Balancing|elasticloadbalancing
+Elastic Load Balancing V2|elasticloadbalancing
+Elemental Support Cases|elemental-support-cases
+Elemental Support Content|elemental-support-content
+High-volume outbound communications|connect-campaigns
+Identity And Access Management|iam
+Launch Wizard|launchwizard
+Network Manager|networkmanager
+Recycle Bin|rbin
+Service Quotas|servicequotas

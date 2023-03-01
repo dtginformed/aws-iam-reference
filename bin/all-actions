@@ -25,7 +25,7 @@ actions = []
 
 data["PolicyEditorConfig"]["serviceMap"].each do |name, config|
   config["Actions"].each do |action|
-    actions << config["StringPrefix"] + ":" + action
+    actions << name + "||" + config["StringPrefix"] + ":" + action
   end
 end
 
